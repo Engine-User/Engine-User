@@ -2,7 +2,7 @@
 
 # Hey, I'm Archisman
 
-**AI · Data · Finance · Cloud**
+**Enterprise AI · Data · FinOps · Cloud**
 
 <br>
 
