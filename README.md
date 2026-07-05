@@ -2,7 +2,7 @@
 
 # Hey, I'm Archisman
 
-**Enterprise AI · Data · Development· FinOps · Cloud**
+**AI · Data · Finance · Cloud**
 
 <br>
 
@@ -15,15 +15,11 @@
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engine-User/Engine-User/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Engine-User/Engine-User/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Engine-User/Engine-User/output/galaga-contribution-graph.svg" width="800">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Engine-User&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
 
-<br><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/Engine-User/Engine-User/output/top-langs.svg" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engine-User&layout=compact&theme=midnight-purple&hide_border=true&card_width=320&langs_count=4&cache_seconds=86400" height="150" alt="languages graph" />
 <img src="https://streak-stats.demolab.com?user=Engine-User&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=3&order=3" height="150" alt="streak graph" />
 
 </div>
