@@ -24,6 +24,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Engine-User/Engine-User/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engine-User&layout=compact&theme=midnight-purple&hide_border=true&card_width=320&langs_count=4" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=Engine-User&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=3&order=3" height="150" alt="streak graph" />
 </p>
