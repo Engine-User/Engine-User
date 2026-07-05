@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Archisman, a Software Engineer
+# I'm Archisman, a Software Engineer
 
-**Enterprise AI · Data · Development· FinOps · Cloud**
+**Enterprise AI · Data · Development· FinOps · Cloud · Automation**
 
 <br>
 
