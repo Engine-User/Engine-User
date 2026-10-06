@@ -15,7 +15,8 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Engine-User&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
+<!-- Use this instead -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Engine-User&theme=tokyo-night" />
 
 <br>
 
