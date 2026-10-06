@@ -15,8 +15,14 @@
 
 <br><br>
 
-<!-- Use this instead -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Engine-User&theme=tokyo-night" />
+<!-- Using tokyonight theme (recommended to match your other elements) -->
+![stats](https://github-readme-stats.vercel.app/api?username=Engine-User&theme=tokyonight&show_icons=true)
+
+<!-- Or using dark theme -->
+![stats](https://github-readme-stats.vercel.app/api?username=Engine-User&theme=dark&show_icons=true)
+
+<!-- Or using github_dark theme -->
+![stats](https://github-readme-stats.vercel.app/api?username=Engine-User&theme=github_dark&show_icons=true)
 
 <br>
 
