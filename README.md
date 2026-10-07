@@ -15,7 +15,11 @@
 
 <br><br>
 
-![stats](https://github-readme-stats.vercel.app/api?username=Engine-User&theme=github_dark&show_icons=true)
+<!-- Compact Stats with Synthwave -->
+![stats](https://github-readme-stats.vercel.app/api?username=Engine-User&theme=synthwave&show_icons=true&layout=compact&hide=issues)
+
+<!-- Streak with matching theme -->
+![streak](https://streak-stats.demolab.com?user=Engine-User&theme=synthwave&hide_border=true)
 
 <br>
 
